@@ -41,7 +41,7 @@
       "rating": 4.3
     },
       {
-      "id": 209,
+      "id": 206,
       "name": "Dell XPS 13",
       "model": "Intel i7, 16GB RAM, 512GB SSD",
       "image": "https://imgs.search.brave.com/nYQWubTZkin_qxTe7lN9tHUyacYye2efJGBIZ0_xToU/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9tLm1l/ZGlhLWFtYXpvbi5j/b20vaW1hZ2VzL0kv/NzFBRE5HeWs0ckwu/anBn",
@@ -49,7 +49,7 @@
       "rating": 4.5
     },
     {
-      "id": 201,
+      "id": 207,
       "name": "Bat-Ball",
       "model": "Normal",
       "image": "https://imgs.search.brave.com/pDB9BK3Woh6J-NPs7bC7x_bs4ttmQHpBSkneqHsT2sk/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9tLm1l/ZGlhLWFtYXpvbi5j/b20vaW1hZ2VzL0kv/NTFMa1dTaUxVQkwu/anBn",
@@ -57,7 +57,7 @@
       "rating": 4.8
     },
     {
-      "id": 202,
+      "id": 208,
       "name": "Samsung Galaxy Z Fold 5",
       "model": "512GB, Phantom Blue",
       "image": "https://imgs.search.brave.com/G8nOUAgvMq3rZ3LyHe1M5n81YdjuyaGGfYmg2rlD-Eg/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly93d3cu/ZGVzaWduaW5mby5p/bi93cC1jb250ZW50/L3VwbG9hZHMvMjAy/NS8wNy9TQU1TVU5H/LUdhbGF4eS1aLUZs/aXA3LTVHLUJsdWUt/U2hhZG93LTgtMzY0/eDM2NC1vcHRpbWl6/ZWQud2VicA",
@@ -66,7 +66,7 @@
     },
 
      {
-      "id": 206,
+      "id": 209,
       "name": "Xbox Series X",
       "model": "1TB, Black",
       "image": "https://imgs.search.brave.com/oNjyS8WNKA0XF-FyJFZrHYQMBw1jjv6cTl57NMRbeXs/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly93d3cu/a2FidW0uY29tLmJy/L19uZXh0L2ltYWdl/P3VybD1odHRwczov/L2ltYWdlczUua2Fi/dW0uY29tLmJyL3By/b2R1dG9zL2ZvdG9z/L3N5bmNfbWlyYWts/LzMxMTg5NS94bGFy/Z2UvQ29uc29sZS1Y/Ym94LVNlcmllcy1Y/LTFUQi1NaWNyb3Nv/ZnQtUHJldG8tUnJ0/LTAwMDAxXzE3NDQ2/NTc4MzMuanBnJnc9/MTkyMCZxPTc1",
@@ -74,7 +74,7 @@
       "rating": 4.7
     },
     {
-      "id": 204,
+      "id": 210,
       "name": "OnePlus 12",
       "model": "256GB, Eternal Green",
       "image": "https://imgs.search.brave.com/CwSCICNWbrqPPRpczGoD92I5nSn5S3ZJjeOtpXRt574/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9tLm1l/ZGlhLWFtYXpvbi5j/b20vaW1hZ2VzL0kv/NTFwdFItT3RWSEwu/anBn",
@@ -82,7 +82,7 @@
       "rating": 4.4
     },
     {
-      "id": 205,
+      "id": 211,
       "name": "Sony PlayStation 5",
       "model": "Disc Edition, White",
       "image": "https://imgs.search.brave.com/Dd4E_7tXcGvhPcdfAlLYJKRcD2-dQVphocYSJOXor8g/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9tLm1l/ZGlhLWFtYXpvbi5j/b20vaW1hZ2VzL0kv/MzE5UWktODBqU0wu/anBn",
@@ -91,7 +91,7 @@
     },
    
     {
-      "id": 207,
+      "id": 212,
       "name": "Sony WH-1000XM5",
       "model": "Wireless Noise Cancelling",
       "image": "https://imgs.search.brave.com/Spnr8TIFST-hGDEGGjp0N5Zh1SeH78e15yh5ZXEJAvU/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9zaG9w/YXRzYy5jb20vY2Ru/L3Nob3AvZmlsZXMv/MV8xNzM1NDhmZi0z/NDM1LTRiYjYtODli/YS1iYjI5YmE2MmE5/MmQuanBnP3Y9MTcy/NzE1ODU4NQ",
@@ -99,7 +99,7 @@
       "rating": 4.6
     },
     {
-      "id": 208,
+      "id": 213,
       "name": "Apple MacBook Air M2",
       "model": "13-inch, 8GB RAM, 256GB SSD",
       "image": "https://imgs.search.brave.com/r2clUYTTH8QlutFQrrOId8vMRN7U5V8hrdiyI9qBsBY/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9tLm1l/ZGlhLWFtYXpvbi5j/b20vaW1hZ2VzL0kv/NDErMHd1T29lMEwu/anBn",
@@ -107,7 +107,7 @@
       "rating": 4.8
     },
         {
-      "id": 203,
+      "id": 214,
       "name": "Google Pixel 8 Pro",
       "model": "128GB, Bay",
       "image": "https://imgs.search.brave.com/PEo9jXuNKKn7hLlboFNWJpnC7pL1SYA7158AjNQiTus/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9tLm1l/ZGlhLWFtYXpvbi5j/b20vaW1hZ2VzL0kv/NDFSUTZ6Zk9wSUwu/anBn",
@@ -116,7 +116,7 @@
     },
   
     {
-      "id": 210,
+      "id": 215,
       "name": "HP Omen Gaming Laptop",
       "model": "Intel i9, 32GB RAM, 1TB SSD",
       "image": "https://imgs.search.brave.com/3lkzx5OiHrT4G8BM56cr22IGKIeZoKt7CM8AdJkMvVA/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly93d3cu/bGFwdG9wc2RpcmVj/dC5jby51ay9JbWFn/ZXMvQTJERzJFQV8z/X1N1cGVyc2l6ZS5w/bmc_d2lkdGg9NzUw/JmhlaWdodD03NTAm/dj0z",
@@ -124,7 +124,7 @@
       "rating": 4.6
     },
     {
-      "id": 211,
+      "id": 216,
       "name": "Nike Air Jordan 1",
       "model": "High OG, Black/Red",
       "image": "https://imgs.search.brave.com/5DZBt_uNGPnm2IU_RpMG6K6Ir16btzBX4Tzf0GL4XHE/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly93d3cu/Y3JlcHNsb2NrZXIu/Y29tL2Nkbi9zaG9w/L2ZpbGVzL2Fpci1q/b3JkYW4tMS1yZXRy/by1zYXRpbi1ibGFj/ay10b2UtX3dfLWNk/MDQ2MS0wMTYtc2lk/ZS53ZWJwP3Y9MTcw/MjQ4NzU2NA",
@@ -132,7 +132,7 @@
       "rating": 4.4
     },
     {
-      "id": 212,
+      "id": 217,
       "name": "Adidas Ultraboost 23",
       "model": "Running Shoes, White",
       "image": "https://imgs.search.brave.com/MXyB6JKGXY2qg3NEaLliWFEf1q0MAcsVoACOCp-wGvg/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9jZG4u/bWVkaWEuYW1wbGll/bmNlLm5ldC9pL3Nw/b3J0aW5nbGlmZS8y/NTgxOTEwM19DUkVB/TV8wL1dvbWVucy1V/bHRyYWJvb3N0LUxp/Z2h0LVJ1bm5pbmct/U2hvZS1DUkVBTT8k/bWVkaXVtJCZmbXQ9/YXV0byZ3PTMxNSZo/PTMxNQ",
@@ -140,7 +140,7 @@
       "rating": 4.5
     },
     {
-      "id": 213,
+      "id": 218,
       "name": "Apple Watch Series 9",
       "model": "45mm, Midnight",
       "image": "https://imgs.search.brave.com/kIOrGpJ0j7ArV6m3WKU4ZnGQULFkEiVzu57LUNrpsyc/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pNS53/YWxtYXJ0aW1hZ2Vz/LmNvbS9zZW8vQXBw/bGUtV2F0Y2gtU2Vy/aWVzLTktV2l0aC1C/bG9vZC1PeHlnZW4t/R1BTLTQxbW0tTWlk/bmlnaHQtQWx1bWlu/dW0tQ2FzZS13aXRo/LU1pZG5pZ2h0LVNw/b3J0LUJhbmQtUy1N/X2IzODQ4NWM2LTdh/NmQtNDg1OC1hYmJh/LTE5ZmRmMmRmNDA4/MC5hMDQwNzdlNzdk/NmJjZmMyYTM2MTU4/ZGJlNmNhMGFjZC5q/cGVnP29kbkhlaWdo/dD01NzMmb2RuV2lk/dGg9NTczJm9kbkJn/PUZGRkZGRg",
@@ -148,7 +148,7 @@
       "rating": 4.7
     },
     {
-      "id": 214,
+      "id": 219,
       "name": "Samsung Galaxy Watch 6",
       "model": "44mm, Graphite",
       "image": "https://imgs.search.brave.com/pSDC_vxQipMx-A8giq1oHBo8Q2vui-XeWL9rnyn6FYo/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pNS53/YWxtYXJ0aW1hZ2Vz/LmNvbS9zZW8vU2Ft/c3VuZy1HYWxheHkt/V2F0Y2g2LTQ0bW0t/U21hcnR3YXRjaC1H/cmFwaGl0ZS1Ud28t/RmFzdC1DaGFyZ2Vy/cy1JbmNsdWRlZF8y/NDE4NDViZi1jNWFk/LTRmYTItYTcwNC1m/MTg5M2IzOWVhNTEu/NTYzODRkOGM1YmI4/ZjRmNWEyOWQyNDE5/YjZjYTIzYzIuanBl/Zz9vZG5IZWlnaHQ9/NTczJm9kbldpZHRo/PTU3MyZvZG5CZz1G/RkZGRkY",
@@ -156,7 +156,7 @@
       "rating": 4.5
     },
     {
-      "id": 215,
+      "id": 220,
       "name": "Canon EOS R10 Camera",
       "model": "24.2MP Mirrorless, Kit Lens",
       "image": "https://imgs.search.brave.com/UOnx0kBrWChs2vIytWZSaVlCwnTNX4pCBQL4ej2Sjgw/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly93d3cu/YWRvcmFtYS5jb20v/aW1hZ2VzL0xhcmdl/L0NBUjEwS0VLLkpQ/Rw",
